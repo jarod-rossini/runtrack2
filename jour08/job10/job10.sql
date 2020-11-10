@@ -1,0 +1,1 @@
+SUM(superficie) FROM etage 

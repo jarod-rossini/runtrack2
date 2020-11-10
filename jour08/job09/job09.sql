@@ -1,0 +1,1 @@
+SELECT * FROM etudiants WHERE date < 10-11-2002

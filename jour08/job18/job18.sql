@@ -1,0 +1,1 @@
+SELECT nom AS 'Biggest Room' FROM etage WHERE (SELECT MAX(capacite))
